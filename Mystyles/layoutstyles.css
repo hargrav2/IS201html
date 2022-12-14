@@ -1,0 +1,42 @@
+body{
+    background-color: seagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common {
+    background-color: #fbebaf!important;
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.mainbody1 {
+    top: 114px;
+    left: 5px;
+    right: 5px;
+}
+
+.mainbody2 {
+    top: 660px;
+    left: 5px;
+    right: 5px;
+}
+
+.mainbody3 {
+    top: 1494px;
+    right: 5px;
+    left: 5px;
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+}
